@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<AttendanceTime>
+		<StaffAttendanceTime>
+			<StaffId>1986</StaffId>
+			<WorkDate>2015-10-05</WorkDate>
+			<AttendTime>2015-10-05-07:45:00</AttendTime>
+			<OutTime>2015-10-05-18:30:00</OutTime>
+		</StaffAttendanceTime>
+		<StaffAttendanceTime>
+			<StaffId>1986</StaffId>
+			<WorkDate>2015-10-02</WorkDate>
+			<AttendTime>2015-10-02-08:45:00</AttendTime>
+			<OutTime>2015-10-02-19:00:00</OutTime>
+		</StaffAttendanceTime>
+		<StaffAttendanceTime>
+			<StaffId>1326</StaffId>
+			<WorkDate>2015-10-05</WorkDate>
+			<AttendTime>2015-10-05-07:50:00</AttendTime>
+			<OutTime>2015-10-05-19:52:20</OutTime>
+		</StaffAttendanceTime>
+	</AttendanceTime>
+		
+		
